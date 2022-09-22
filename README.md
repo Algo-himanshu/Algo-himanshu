@@ -1,4 +1,4 @@
-### Hi there 👋, I'm LODU Tiwari
+### Hi there 👋, I'm Himanshu Tiwari
 
 [![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
