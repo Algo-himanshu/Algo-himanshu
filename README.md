@@ -1,4 +1,6 @@
-### Hi there 👋
+### Hi there 👋, I'm LODU Tiwari
+
+[![Sparkline](https://stars.medv.io/Naereen/badges.svg)](https://stars.medv.io/Naereen/badges)
 
 
 
@@ -11,5 +13,13 @@ Here are some ideas to get you started:
 - 💬 Ask me about ...
 - 📫 How to reach me: ...
 - 😄 Pronouns: ...
-- ⚡ Fun fact: ...
- [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Algo-himanshu&theme=blue-green)](https://github.com/Algo-himanshu/github-readme-stats)
+
+
+
+
+
+ [![Anurag's github stats](https://github-readme-stats.vercel.app/api?username=Algo-himanshu&theme=blue-green)](https://github.com/Algo-himanshu/github-readme-stats) [![DenverCoder1's github streak](https://github-readme-streak-stats.herokuapp.com/?user=Algo-himanshu&theme=blue-green)](https://github.com/Algo-himanshu/github-readme-streak-stats)[![Naereen's top languages](https://github-readme-stats.vercel.app/api/top-langs/?username=Algo-himanshu&theme=blue-green)](https://github.com/Algo-himanshu/github-readme-stats)
+ 
+ 
+ 
+
